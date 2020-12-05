@@ -62,6 +62,14 @@ header .contenedor {
     text-decoration: none;
     color: #fff;
    text-align:center;
+   text-decoration: underline;
+   
+}
+
+
+.inicio1 ul :hover {
+    
+    color: grey;
    
    
 }
@@ -138,12 +146,16 @@ text-align: center;
     line-height: 29px;
     padding: 0;
     display: flex;
-    
+    text-decoration: underline;
     
 }
 
 
-   
+.menu ul :hover{
+    color: white;
+    overflow: hidden;
+    
+}
 
 
 
